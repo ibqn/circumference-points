@@ -1,5 +1,11 @@
 ## Circumference points
 
+example of usage
+
+```bash
+echo '16 0.25' | bash circumference-points.bash
+```
+
 Circumference points
 
 ![Circumference points](./full-circle.png "Circumference points")
